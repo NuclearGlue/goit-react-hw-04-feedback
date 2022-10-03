@@ -1,4 +1,4 @@
-import  Form  from './Form/Form.js'
+import  FeedbackComponent  from './Feedback/Feedback.js'
 
 export const App = () => {
   return (
@@ -12,7 +12,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-     <Form />
+     <FeedbackComponent />
     </div>
   );
 };
