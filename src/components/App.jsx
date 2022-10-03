@@ -1,4 +1,4 @@
-import Form from './form/form'
+import  Form  from './Form/Form.js'
 
 export const App = () => {
   return (
